@@ -17,6 +17,7 @@ public class estatistica {
 		numI = ler.nextInt();
 		System.out.println("1 - Estatistica dos MB 2 - Estatistica dos B");
 		System.out.println("3 - Estatistica dos R  4 - Estatistica dos I");
+		Sysout.out.println("Digite qual nota vc quer saber a estatistica");
 		escolha = ler.nextInt();
 		switch (escolha) {
 			case 1:
